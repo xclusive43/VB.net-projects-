@@ -1,0 +1,12 @@
+C:\Users\JAYEE\Desktop\vb_projects\array_sorting\bin\Debug\array_sorting.exe.config
+C:\Users\JAYEE\Desktop\vb_projects\array_sorting\bin\Debug\array_sorting.exe
+C:\Users\JAYEE\Desktop\vb_projects\array_sorting\bin\Debug\array_sorting.pdb
+C:\Users\JAYEE\Desktop\vb_projects\array_sorting\bin\Debug\array_sorting.xml
+C:\Users\JAYEE\Desktop\vb_projects\array_sorting\obj\Debug\array_sorting.vbprojAssemblyReference.cache
+C:\Users\JAYEE\Desktop\vb_projects\array_sorting\obj\Debug\array_sorting.Form1.resources
+C:\Users\JAYEE\Desktop\vb_projects\array_sorting\obj\Debug\array_sorting.Resources.resources
+C:\Users\JAYEE\Desktop\vb_projects\array_sorting\obj\Debug\array_sorting.vbproj.GenerateResource.cache
+C:\Users\JAYEE\Desktop\vb_projects\array_sorting\obj\Debug\array_sorting.vbproj.CoreCompileInputs.cache
+C:\Users\JAYEE\Desktop\vb_projects\array_sorting\obj\Debug\array_sorting.exe
+C:\Users\JAYEE\Desktop\vb_projects\array_sorting\obj\Debug\array_sorting.xml
+C:\Users\JAYEE\Desktop\vb_projects\array_sorting\obj\Debug\array_sorting.pdb

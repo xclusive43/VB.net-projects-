@@ -1,0 +1,12 @@
+C:\Users\JAYEE\source\repos\array_smallest_largest\bin\Debug\array_smallest_largest.exe.config
+C:\Users\JAYEE\source\repos\array_smallest_largest\bin\Debug\array_smallest_largest.exe
+C:\Users\JAYEE\source\repos\array_smallest_largest\bin\Debug\array_smallest_largest.pdb
+C:\Users\JAYEE\source\repos\array_smallest_largest\bin\Debug\array_smallest_largest.xml
+C:\Users\JAYEE\source\repos\array_smallest_largest\obj\Debug\array_smallest_largest.vbprojAssemblyReference.cache
+C:\Users\JAYEE\source\repos\array_smallest_largest\obj\Debug\array_smallest_largest.Form1.resources
+C:\Users\JAYEE\source\repos\array_smallest_largest\obj\Debug\array_smallest_largest.Resources.resources
+C:\Users\JAYEE\source\repos\array_smallest_largest\obj\Debug\array_smallest_largest.vbproj.GenerateResource.cache
+C:\Users\JAYEE\source\repos\array_smallest_largest\obj\Debug\array_smallest_largest.vbproj.CoreCompileInputs.cache
+C:\Users\JAYEE\source\repos\array_smallest_largest\obj\Debug\array_smallest_largest.exe
+C:\Users\JAYEE\source\repos\array_smallest_largest\obj\Debug\array_smallest_largest.xml
+C:\Users\JAYEE\source\repos\array_smallest_largest\obj\Debug\array_smallest_largest.pdb
