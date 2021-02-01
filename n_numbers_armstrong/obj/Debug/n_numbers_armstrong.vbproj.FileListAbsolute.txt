@@ -1,0 +1,12 @@
+C:\Users\JAYEE\Desktop\vb_projects\n_numbers_armstrong\bin\Debug\n_numbers_armstrong.exe.config
+C:\Users\JAYEE\Desktop\vb_projects\n_numbers_armstrong\bin\Debug\n_numbers_armstrong.exe
+C:\Users\JAYEE\Desktop\vb_projects\n_numbers_armstrong\bin\Debug\n_numbers_armstrong.pdb
+C:\Users\JAYEE\Desktop\vb_projects\n_numbers_armstrong\bin\Debug\n_numbers_armstrong.xml
+C:\Users\JAYEE\Desktop\vb_projects\n_numbers_armstrong\obj\Debug\n_numbers_armstrong.vbprojAssemblyReference.cache
+C:\Users\JAYEE\Desktop\vb_projects\n_numbers_armstrong\obj\Debug\n_numbers_armstrong.Form1.resources
+C:\Users\JAYEE\Desktop\vb_projects\n_numbers_armstrong\obj\Debug\n_numbers_armstrong.Resources.resources
+C:\Users\JAYEE\Desktop\vb_projects\n_numbers_armstrong\obj\Debug\n_numbers_armstrong.vbproj.GenerateResource.cache
+C:\Users\JAYEE\Desktop\vb_projects\n_numbers_armstrong\obj\Debug\n_numbers_armstrong.vbproj.CoreCompileInputs.cache
+C:\Users\JAYEE\Desktop\vb_projects\n_numbers_armstrong\obj\Debug\n_numbers_armstrong.exe
+C:\Users\JAYEE\Desktop\vb_projects\n_numbers_armstrong\obj\Debug\n_numbers_armstrong.xml
+C:\Users\JAYEE\Desktop\vb_projects\n_numbers_armstrong\obj\Debug\n_numbers_armstrong.pdb

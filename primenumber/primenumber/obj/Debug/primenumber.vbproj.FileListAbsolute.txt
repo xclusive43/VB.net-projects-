@@ -1,0 +1,35 @@
+C:\Users\user\AppData\Local\Temporary Projects\primenumber\bin\Debug\primenumber.exe
+C:\Users\user\AppData\Local\Temporary Projects\primenumber\bin\Debug\primenumber.pdb
+C:\Users\user\AppData\Local\Temporary Projects\primenumber\bin\Debug\primenumber.xml
+C:\Users\user\AppData\Local\Temporary Projects\primenumber\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\user\AppData\Local\Temporary Projects\primenumber\obj\Debug\primenumber.Form1.resources
+C:\Users\user\AppData\Local\Temporary Projects\primenumber\obj\Debug\primenumber.Resources.resources
+C:\Users\user\AppData\Local\Temporary Projects\primenumber\obj\Debug\primenumber.vbproj.GenerateResource.Cache
+C:\Users\user\AppData\Local\Temporary Projects\primenumber\obj\Debug\primenumber.exe
+C:\Users\user\AppData\Local\Temporary Projects\primenumber\obj\Debug\primenumber.xml
+C:\Users\user\AppData\Local\Temporary Projects\primenumber\obj\Debug\primenumber.pdb
+G:\vb.net\primenumber\primenumber\obj\Debug\primenumber.exe
+G:\vb.net\primenumber\primenumber\obj\Debug\primenumber.xml
+G:\vb.net\primenumber\primenumber\obj\Debug\primenumber.pdb
+C:\Users\JAYEE\Desktop\vb.net\primenumber\primenumber\bin\Debug\primenumber.exe
+C:\Users\JAYEE\Desktop\vb.net\primenumber\primenumber\bin\Debug\primenumber.pdb
+C:\Users\JAYEE\Desktop\vb.net\primenumber\primenumber\bin\Debug\primenumber.xml
+C:\Users\JAYEE\Desktop\vb.net\primenumber\primenumber\obj\Debug\primenumber.vbprojAssemblyReference.cache
+C:\Users\JAYEE\Desktop\vb.net\primenumber\primenumber\obj\Debug\primenumber.Form1.resources
+C:\Users\JAYEE\Desktop\vb.net\primenumber\primenumber\obj\Debug\primenumber.Resources.resources
+C:\Users\JAYEE\Desktop\vb.net\primenumber\primenumber\obj\Debug\primenumber.vbproj.GenerateResource.cache
+C:\Users\JAYEE\Desktop\vb.net\primenumber\primenumber\obj\Debug\primenumber.vbproj.CoreCompileInputs.cache
+C:\Users\JAYEE\Desktop\vb.net\primenumber\primenumber\obj\Debug\primenumber.exe
+C:\Users\JAYEE\Desktop\vb.net\primenumber\primenumber\obj\Debug\primenumber.xml
+C:\Users\JAYEE\Desktop\vb.net\primenumber\primenumber\obj\Debug\primenumber.pdb
+C:\Users\JAYEE\Desktop\vb_projects\primenumber\primenumber\bin\Debug\primenumber.exe
+C:\Users\JAYEE\Desktop\vb_projects\primenumber\primenumber\bin\Debug\primenumber.pdb
+C:\Users\JAYEE\Desktop\vb_projects\primenumber\primenumber\bin\Debug\primenumber.xml
+C:\Users\JAYEE\Desktop\vb_projects\primenumber\primenumber\obj\Debug\primenumber.vbprojAssemblyReference.cache
+C:\Users\JAYEE\Desktop\vb_projects\primenumber\primenumber\obj\Debug\primenumber.Form1.resources
+C:\Users\JAYEE\Desktop\vb_projects\primenumber\primenumber\obj\Debug\primenumber.Resources.resources
+C:\Users\JAYEE\Desktop\vb_projects\primenumber\primenumber\obj\Debug\primenumber.vbproj.GenerateResource.cache
+C:\Users\JAYEE\Desktop\vb_projects\primenumber\primenumber\obj\Debug\primenumber.vbproj.CoreCompileInputs.cache
+C:\Users\JAYEE\Desktop\vb_projects\primenumber\primenumber\obj\Debug\primenumber.exe
+C:\Users\JAYEE\Desktop\vb_projects\primenumber\primenumber\obj\Debug\primenumber.xml
+C:\Users\JAYEE\Desktop\vb_projects\primenumber\primenumber\obj\Debug\primenumber.pdb

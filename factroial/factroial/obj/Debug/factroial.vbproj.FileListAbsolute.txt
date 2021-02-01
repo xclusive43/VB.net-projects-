@@ -1,0 +1,12 @@
+C:\Users\JAYEE\Desktop\vb_projects\factroial\factroial\bin\Debug\factroial.exe.config
+C:\Users\JAYEE\Desktop\vb_projects\factroial\factroial\bin\Debug\factroial.exe
+C:\Users\JAYEE\Desktop\vb_projects\factroial\factroial\bin\Debug\factroial.pdb
+C:\Users\JAYEE\Desktop\vb_projects\factroial\factroial\bin\Debug\factroial.xml
+C:\Users\JAYEE\Desktop\vb_projects\factroial\factroial\obj\Debug\factroial.vbprojAssemblyReference.cache
+C:\Users\JAYEE\Desktop\vb_projects\factroial\factroial\obj\Debug\factroial.Form1.resources
+C:\Users\JAYEE\Desktop\vb_projects\factroial\factroial\obj\Debug\factroial.Resources.resources
+C:\Users\JAYEE\Desktop\vb_projects\factroial\factroial\obj\Debug\factroial.vbproj.GenerateResource.cache
+C:\Users\JAYEE\Desktop\vb_projects\factroial\factroial\obj\Debug\factroial.vbproj.CoreCompileInputs.cache
+C:\Users\JAYEE\Desktop\vb_projects\factroial\factroial\obj\Debug\factroial.exe
+C:\Users\JAYEE\Desktop\vb_projects\factroial\factroial\obj\Debug\factroial.xml
+C:\Users\JAYEE\Desktop\vb_projects\factroial\factroial\obj\Debug\factroial.pdb
