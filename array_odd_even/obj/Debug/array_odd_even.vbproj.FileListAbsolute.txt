@@ -1,0 +1,12 @@
+C:\Users\JAYEE\Desktop\vb_projects\array_odd_even\bin\Debug\array_odd_even.exe.config
+C:\Users\JAYEE\Desktop\vb_projects\array_odd_even\bin\Debug\array_odd_even.exe
+C:\Users\JAYEE\Desktop\vb_projects\array_odd_even\bin\Debug\array_odd_even.pdb
+C:\Users\JAYEE\Desktop\vb_projects\array_odd_even\bin\Debug\array_odd_even.xml
+C:\Users\JAYEE\Desktop\vb_projects\array_odd_even\obj\Debug\array_odd_even.vbprojAssemblyReference.cache
+C:\Users\JAYEE\Desktop\vb_projects\array_odd_even\obj\Debug\array_odd_even.Form1.resources
+C:\Users\JAYEE\Desktop\vb_projects\array_odd_even\obj\Debug\array_odd_even.Resources.resources
+C:\Users\JAYEE\Desktop\vb_projects\array_odd_even\obj\Debug\array_odd_even.vbproj.GenerateResource.cache
+C:\Users\JAYEE\Desktop\vb_projects\array_odd_even\obj\Debug\array_odd_even.vbproj.CoreCompileInputs.cache
+C:\Users\JAYEE\Desktop\vb_projects\array_odd_even\obj\Debug\array_odd_even.exe
+C:\Users\JAYEE\Desktop\vb_projects\array_odd_even\obj\Debug\array_odd_even.xml
+C:\Users\JAYEE\Desktop\vb_projects\array_odd_even\obj\Debug\array_odd_even.pdb

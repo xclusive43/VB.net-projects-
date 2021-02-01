@@ -1,0 +1,12 @@
+C:\Users\JAYEE\Desktop\vb_projects\all_factors\obj\Debug\all_factors.vbprojAssemblyReference.cache
+C:\Users\JAYEE\Desktop\vb_projects\all_factors\obj\Debug\all_factors.Form1.resources
+C:\Users\JAYEE\Desktop\vb_projects\all_factors\obj\Debug\all_factors.Resources.resources
+C:\Users\JAYEE\Desktop\vb_projects\all_factors\obj\Debug\all_factors.vbproj.GenerateResource.cache
+C:\Users\JAYEE\Desktop\vb_projects\all_factors\obj\Debug\all_factors.vbproj.CoreCompileInputs.cache
+C:\Users\JAYEE\Desktop\vb_projects\all_factors\bin\Debug\all_factors.exe.config
+C:\Users\JAYEE\Desktop\vb_projects\all_factors\bin\Debug\all_factors.exe
+C:\Users\JAYEE\Desktop\vb_projects\all_factors\bin\Debug\all_factors.pdb
+C:\Users\JAYEE\Desktop\vb_projects\all_factors\bin\Debug\all_factors.xml
+C:\Users\JAYEE\Desktop\vb_projects\all_factors\obj\Debug\all_factors.exe
+C:\Users\JAYEE\Desktop\vb_projects\all_factors\obj\Debug\all_factors.xml
+C:\Users\JAYEE\Desktop\vb_projects\all_factors\obj\Debug\all_factors.pdb
