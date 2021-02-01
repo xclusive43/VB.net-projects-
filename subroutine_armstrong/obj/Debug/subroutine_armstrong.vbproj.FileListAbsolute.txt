@@ -1,0 +1,12 @@
+C:\Users\JAYEE\Desktop\vb_projects\subroutine_armstrong\bin\Debug\subroutine_armstrong.exe.config
+C:\Users\JAYEE\Desktop\vb_projects\subroutine_armstrong\bin\Debug\subroutine_armstrong.exe
+C:\Users\JAYEE\Desktop\vb_projects\subroutine_armstrong\bin\Debug\subroutine_armstrong.pdb
+C:\Users\JAYEE\Desktop\vb_projects\subroutine_armstrong\bin\Debug\subroutine_armstrong.xml
+C:\Users\JAYEE\Desktop\vb_projects\subroutine_armstrong\obj\Debug\subroutine_armstrong.vbprojAssemblyReference.cache
+C:\Users\JAYEE\Desktop\vb_projects\subroutine_armstrong\obj\Debug\subroutine_armstrong.Form1.resources
+C:\Users\JAYEE\Desktop\vb_projects\subroutine_armstrong\obj\Debug\subroutine_armstrong.Resources.resources
+C:\Users\JAYEE\Desktop\vb_projects\subroutine_armstrong\obj\Debug\subroutine_armstrong.vbproj.GenerateResource.cache
+C:\Users\JAYEE\Desktop\vb_projects\subroutine_armstrong\obj\Debug\subroutine_armstrong.vbproj.CoreCompileInputs.cache
+C:\Users\JAYEE\Desktop\vb_projects\subroutine_armstrong\obj\Debug\subroutine_armstrong.exe
+C:\Users\JAYEE\Desktop\vb_projects\subroutine_armstrong\obj\Debug\subroutine_armstrong.xml
+C:\Users\JAYEE\Desktop\vb_projects\subroutine_armstrong\obj\Debug\subroutine_armstrong.pdb

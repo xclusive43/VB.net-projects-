@@ -1,0 +1,24 @@
+C:\Users\user\AppData\Local\Temporary Projects\reverse\bin\Debug\reverse.exe
+C:\Users\user\AppData\Local\Temporary Projects\reverse\bin\Debug\reverse.pdb
+C:\Users\user\AppData\Local\Temporary Projects\reverse\bin\Debug\reverse.xml
+C:\Users\user\AppData\Local\Temporary Projects\reverse\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\user\AppData\Local\Temporary Projects\reverse\obj\Debug\reverse.Form1.resources
+C:\Users\user\AppData\Local\Temporary Projects\reverse\obj\Debug\reverse.Resources.resources
+C:\Users\user\AppData\Local\Temporary Projects\reverse\obj\Debug\reverse.vbproj.GenerateResource.Cache
+C:\Users\user\AppData\Local\Temporary Projects\reverse\obj\Debug\reverse.exe
+C:\Users\user\AppData\Local\Temporary Projects\reverse\obj\Debug\reverse.xml
+C:\Users\user\AppData\Local\Temporary Projects\reverse\obj\Debug\reverse.pdb
+G:\vb.net\reverse\reverse\obj\Debug\reverse.exe
+G:\vb.net\reverse\reverse\obj\Debug\reverse.xml
+G:\vb.net\reverse\reverse\obj\Debug\reverse.pdb
+C:\Users\JAYEE\Desktop\vb_projects\reverse\reverse\bin\Debug\reverse.exe
+C:\Users\JAYEE\Desktop\vb_projects\reverse\reverse\bin\Debug\reverse.pdb
+C:\Users\JAYEE\Desktop\vb_projects\reverse\reverse\bin\Debug\reverse.xml
+C:\Users\JAYEE\Desktop\vb_projects\reverse\reverse\obj\Debug\reverse.vbprojAssemblyReference.cache
+C:\Users\JAYEE\Desktop\vb_projects\reverse\reverse\obj\Debug\reverse.Form1.resources
+C:\Users\JAYEE\Desktop\vb_projects\reverse\reverse\obj\Debug\reverse.Resources.resources
+C:\Users\JAYEE\Desktop\vb_projects\reverse\reverse\obj\Debug\reverse.vbproj.GenerateResource.cache
+C:\Users\JAYEE\Desktop\vb_projects\reverse\reverse\obj\Debug\reverse.vbproj.CoreCompileInputs.cache
+C:\Users\JAYEE\Desktop\vb_projects\reverse\reverse\obj\Debug\reverse.exe
+C:\Users\JAYEE\Desktop\vb_projects\reverse\reverse\obj\Debug\reverse.xml
+C:\Users\JAYEE\Desktop\vb_projects\reverse\reverse\obj\Debug\reverse.pdb

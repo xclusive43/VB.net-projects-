@@ -1,0 +1,12 @@
+C:\Users\JAYEE\Desktop\vb_projects\sumoof_all_numbers\bin\Debug\sumoof_all_numbers.exe.config
+C:\Users\JAYEE\Desktop\vb_projects\sumoof_all_numbers\bin\Debug\sumoof_all_numbers.exe
+C:\Users\JAYEE\Desktop\vb_projects\sumoof_all_numbers\bin\Debug\sumoof_all_numbers.pdb
+C:\Users\JAYEE\Desktop\vb_projects\sumoof_all_numbers\bin\Debug\sumoof_all_numbers.xml
+C:\Users\JAYEE\Desktop\vb_projects\sumoof_all_numbers\obj\Debug\sumoof_all_numbers.vbprojAssemblyReference.cache
+C:\Users\JAYEE\Desktop\vb_projects\sumoof_all_numbers\obj\Debug\sumoof_all_numbers.Form1.resources
+C:\Users\JAYEE\Desktop\vb_projects\sumoof_all_numbers\obj\Debug\sumoof_all_numbers.Resources.resources
+C:\Users\JAYEE\Desktop\vb_projects\sumoof_all_numbers\obj\Debug\sumoof_all_numbers.vbproj.GenerateResource.cache
+C:\Users\JAYEE\Desktop\vb_projects\sumoof_all_numbers\obj\Debug\sumoof_all_numbers.vbproj.CoreCompileInputs.cache
+C:\Users\JAYEE\Desktop\vb_projects\sumoof_all_numbers\obj\Debug\sumoof_all_numbers.exe
+C:\Users\JAYEE\Desktop\vb_projects\sumoof_all_numbers\obj\Debug\sumoof_all_numbers.xml
+C:\Users\JAYEE\Desktop\vb_projects\sumoof_all_numbers\obj\Debug\sumoof_all_numbers.pdb
